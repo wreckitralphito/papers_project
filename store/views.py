@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
+from .models import Category, Product
+
+def all_products(request):
+    products = Product.objects.all()
+    return render(request, 'store/home.html' {'products': products}) #get data w template and send it back to user 
+
 # Create your views here.
