@@ -63,7 +63,7 @@ class Basket():
         """
         Update values in session data
         """
-        product_id = product
+        product_id =str(product)
 
         if product_id in self.basket:
             self.basket[product_id]['qty'] = qty
