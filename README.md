@@ -1,32 +1,8 @@
-<!DOCTYPE html>
-<html>
-    <style>
-        ol {
-            list-style-type: none;
-            counter-reset: item;
-            padding-left: 0;
-        }
-        ol li::before { 
-            counter-increment: item;
-            content: counter(item) ". ";
-            font-weight: bold;
-        }
-        ul {
-            list-style-type: disc; 
-            padding-left: 1.5em;   
-        }
-        li p {
-            margin-left: 15px;
-        }
-    </style>
-
-<body>
-
-<div style="text-align: center;">
+<div align="center">
 <img src="media/images/logo_cropped_nobg.png" alt="papers & pens" width="150" height="90" center>
 </div>
-<div align="center">
 
+<div style="text-align: center;">
   <h1><b><u>Papers & Pens E-commerce Website</h1></b></u>
 </div>
 
@@ -73,7 +49,7 @@
 <h3><b><u>General Instructions</b></u></h3>
 
 <ol>
-    <li>
+    <li style="font-weight: bold;">
         <b>Make sure that the virtual enviornment is activated</b>
         <p>
             To activate a virtual environment from the command line interface (CLI), use the corresponding command for your operating system.
@@ -87,13 +63,13 @@
             Note: Replace <u>path/to/env</u> with the actual path to the virtual environment directory (venv) on your local device.
         </p>
     </li>
-    <li>
+    <li style="font-weight: bold;">
         <b>Run the server</b>
         <p>
             Input the command <u>python manage.py runserver</u> or <u>python3 manage.py runserver</u> on your terminal/CLI
         </p>
     </li>
-    <li>
+    <li style="font-weight: bold;">
         <b>Access the website</b>
         <p>
             The runserver command should generate a local address to access the website. <br>
@@ -107,13 +83,13 @@
 <h3><b><u>Customer View</b></u></h3>
 
 <ol>
-    <li>
+    <li style="font-weight: bold;">
         <b>Log in or create an account</b>
         <p>
             Click the corresponding buttons on the upper right corner of the website and input the necessary information.
         </p>
     </li>
-    <li>
+    <li style="font-weight: bold;">
         <b>Navigate and use website as needed</b>
         <p>
             Customers may filter products based on their needs and add these to their basket, as well as editing their basket (deleting items or updating the quantity) before proceeding to check-out. <br><br>
@@ -128,7 +104,7 @@
 <h3><b><u>Admin View</b></u></h3>
 
 <ol>
-    <li>
+    <li style="font-weight: bold;">
         <b>Access the admin page</b>
         <p>
             Add <u>/admin</u> to the end of the standard URL of the website.
@@ -136,7 +112,7 @@
             An example would be <u>http://127.0.0.1:8000/admin</u>
         </p>
     </li>
-    <li>
+    <li style="font-weight: bold;">
         <b>Log in as an admin</b>
         <p>
             Input the following account details: <br><br>
@@ -144,13 +120,10 @@
             <b>Password:</b> admin
         </p>
     </li>
-    <li>
+    <li style="font-weight: bold;">
         <b>Navigate and use website as needed</b>
         <p>
            Admins of the website are given the autonomy to add, delete, or edit the products that are displayed on the front-end of the website.
         </p>
     </li>
 </ol>
-
-</body>
-</html>
