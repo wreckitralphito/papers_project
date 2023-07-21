@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
     <style>
         ol {
@@ -11,7 +13,7 @@
             font-weight: bold;
         }
         ul {
-            list-style-type: disc;
+            list-style-type: disc; 
             padding-left: 1.5em;   
         }
         li p {
@@ -20,10 +22,13 @@
     </style>
 </head>
 
+<body>
+
 <div style="text-align: center;">
 <img src="media/images/logo_cropped_nobg.png" alt="papers & pens" width="150" height="90" center>
 </div>
 <div align="center">
+
   <h1><b><u>Papers & Pens E-commerce Website</h1></b></u>
 </div>
 
@@ -148,3 +153,6 @@
         </p>
     </li>
 </ol>
+
+</body>
+</html>
