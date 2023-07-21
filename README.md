@@ -9,7 +9,7 @@
 <br>
 
 <h2><b> Project Dependencies and Packages </h2></b>
-<hr>
+
 <h3><b><u>Project Dependencies</b></u></h3>
 <ul>
     <li>asgiref==3.7.2</li>
@@ -44,9 +44,9 @@
 <br>
 
 <h2><b> How to Run the Project </h2></b>
-<hr>
 
 <h3><b><u>General Instructions</b></u></h3>
+<hr>
 
 <ol>
     <li style="font-weight: bold;">
@@ -81,6 +81,7 @@
 <br>
 
 <h3><b><u>Customer View</b></u></h3>
+<hr>
 
 <ol>
     <li style="font-weight: bold;">
