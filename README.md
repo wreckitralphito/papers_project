@@ -2,13 +2,11 @@
 <img src="media/images/logo_cropped_nobg.png" alt="papers & pens" width="150" height="90" center>
 </div>
 
-<div style="text-align: center;">
-  <h1><b><u>Papers & Pens E-commerce Website</h1></b></u>
-</div>
+  <h1 style="text-align: center;"><b><u>Papers & Pens E-commerce Website</h1></b></u>
 
 <br>
 
-<h2><b> Project Dependencies and Packages </h2></b>
+<h2><b> PROJECT DEPENDENCIES AND PACKAGES </h2></b>
 
 <h3><b><u>Project Dependencies</b></u></h3>
 <ul>
@@ -43,10 +41,9 @@
 
 <br>
 
-<h2><b> How to Run the Project </h2></b>
+<h2><b> HOW TO RUN THE PROJECT </h2></b>
 
 <h3><b><u>General Instructions</b></u></h3>
-<hr>
 
 <ol>
     <li style="font-weight: bold;">
@@ -81,7 +78,6 @@
 <br>
 
 <h3><b><u>Customer View</b></u></h3>
-<hr>
 
 <ol>
     <li style="font-weight: bold;">
