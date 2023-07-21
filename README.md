@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
     <style>
         ol {
             list-style-type: none;
@@ -20,7 +19,6 @@
             margin-left: 15px;
         }
     </style>
-</head>
 
 <body>
 
