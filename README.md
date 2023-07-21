@@ -4,9 +4,6 @@
 
   <h1><b><u>Papers & Pens E-commerce Website</h1></b></u>
 
-<br>
-
-
 <h3><b><u>Project Dependencies</b></u></h3>
 <ul>
     <li>asgiref==3.7.2</li>
@@ -23,7 +20,6 @@
     <li>sqlparse==0.4.4</li>
     <li>typing_extensions==4.7.1</li>
 </ul>
-
 
 <h3><b><u>Project Packages</b></u></h3>
 <ul>
