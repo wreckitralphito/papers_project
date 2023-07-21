@@ -2,11 +2,10 @@
 <img src="media/images/logo_cropped_nobg.png" alt="papers & pens" width="150" height="90" center>
 </div>
 
-  <h1 style="text-align: center;"><b><u>Papers & Pens E-commerce Website</h1></b></u>
+  <h1><b><u>Papers & Pens E-commerce Website</h1></b></u>
 
 <br>
 
-<h2><b> PROJECT DEPENDENCIES AND PACKAGES </h2></b>
 
 <h3><b><u>Project Dependencies</b></u></h3>
 <ul>
@@ -54,7 +53,7 @@
             <b>On Windows:</b> <u>path\to\env\Scripts\activate</u>
             <br><br>
             Note: Replace <u>path\to\env</u> with the actual path to the virtual environment directory (venv) on your local device.
-            <br><br><br>
+            <br><br>
             <b>On macOS and Linux:</b> <u>source path/to/env/bin/activate</u>
             <br><br>
             Note: Replace <u>path/to/env</u> with the actual path to the virtual environment directory (venv) on your local device.
@@ -63,7 +62,7 @@
     <li style="font-weight: bold;">
         <b>Run the server</b>
         <p>
-            Input the command <u>python manage.py runserver</u> or <u>python3 manage.py runserver</u> on your terminal/CLI
+            Input the command <u>python manage.py runserver</u> or <u>python3 manage.py runserver</u> on your terminal/CLI.
         </p>
     </li>
     <li style="font-weight: bold;">
