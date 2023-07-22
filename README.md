@@ -99,16 +99,16 @@
     <li style="font-weight: bold;">
         <b>Access the admin page</b>
         <p>
-            Add <u>/admin</u> to the end of the standard URL of the website.
+            Add <u>/admin/</u> to the end of the standard URL of the website.
             <br><br>
-            An example would be <u>http://127.0.0.1:8000/admin</u>
+            An example would be <u>http://127.0.0.1:8000/admin/</u>
         </p>
     </li>
     <li style="font-weight: bold;">
         <b>Log in as an admin</b>
         <p>
             Input the following account details: <br><br>
-            <b>Username:</b> admin<br>
+            <b>Email Address:</b> a@a.com<br>
             <b>Password:</b> admin
         </p>
     </li>
