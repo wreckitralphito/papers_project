@@ -91,6 +91,7 @@
         <b>Log in or create an account</b>
         <p>
             Click the corresponding buttons on the upper right corner of the website and input the necessary information. <br>
+            If a new account was created, refer back to your terminal activate your account using the provided link.
         </p>
     </li>
     <li style="font-weight: bold;">
