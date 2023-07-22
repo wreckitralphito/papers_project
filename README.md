@@ -4,6 +4,18 @@
 
   <h1><b><u>Papers & Pens E-commerce Website</h1></b></u>
 
+<h2><b> ABOUT THE PROJECT </h2></b>
+
+<h3><b><u>Summary</b></u></h3>
+<p>The group developed an e-commerce website for a simulated business called Papers & Pens. After logging in, customers are able to browse through and filter the product catalog, adding their desired products to their basket, where they can update the quantities, delete items, view their quotations, and check out. Admin users are given the authority to add, edit, and remove products that are reflected on the front end of the website.</p>
+
+<br>
+
+<h3><b><u>Motivation</b></u></h3>
+<p>As a group of students who were keen for a challenge, we set out to learn more about web development. We were fascinated by e-commerce and its influence on our daily lives, so we sought to discover its inner workings.  As business majors, we also saw the potential benefits this knowledge could bring to our future endeavors. We were able to hone our skills in web development and refine our abilities, which we learnt throughout the semester. This experience has left us with enriched knowledge and better understanding of the inner workings of an e-commerce website.</p>
+
+<br>
+
 <h3><b><u>Project Dependencies</b></u></h3>
 <ul>
     <li>asgiref==3.7.2</li>
@@ -78,7 +90,7 @@
     <li style="font-weight: bold;">
         <b>Log in or create an account</b>
         <p>
-            Click the corresponding buttons on the upper right corner of the website and input the necessary information.
+            Click the corresponding buttons on the upper right corner of the website and input the necessary information. <br>
         </p>
     </li>
     <li style="font-weight: bold;">
